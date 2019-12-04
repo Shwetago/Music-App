@@ -23,7 +23,7 @@ var data = {
 		}),
 		color: '#9b59b6'
 	},
-		t: {
+	t: {
 		sound: new Howl({
   		urls: ['sounds/dotted-spiral.mp3']
 		}),
@@ -49,7 +49,7 @@ var data = {
 	},
 	o: {
 		sound: new Howl({
-			urls: ['sounds/glimmer.mp3']
+		urls: ['sounds/glimmer.mp3']
 		}),
 		color: '#8e44ad'
 	},
@@ -71,7 +71,7 @@ var data = {
 		}),
 		color: '#e67e22'
 	},
-		d: {
+	d: {
 		sound: new Howl({
   		urls: ['sounds/piston-2.mp3']
 		}),
